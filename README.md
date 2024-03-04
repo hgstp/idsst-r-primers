@@ -1,6 +1,6 @@
-# RStudio Cloud Primers
+# IDSST R Primers
 
-[RStudio Cloud](http://rstudio.cloud) is a free, cloud based version of the RStudio IDE.
+These interactive R tutorials, made with [learnr](https://rstudio.github.io/learnr/), were originally created by [rstudio-eduction](https://github.com/rstudio-education). These primers teach the basics of R and the Tidyverse. 
 
-Packaged within RStudio Cloud are **primers**, which are collections of interactive tutorials made with [learnr](https://rstudio.github.io/learnr/). These primers teach the basics of R and the Tidyverse. This repository contains the contents of those primers.
+All changes to these tutorials are our own and in no way approved by / discussed with [rstudio-eduction](https://github.com/rstudio-education).
 
